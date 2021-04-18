@@ -1,5 +1,5 @@
-#STW300CEM-Android-Final-Year-Project-SujeshHarshaBajracharya
+# STW300CEM-Android-Final-Year-Project-SujeshHarshaBajracharya
 
-#Harsha Hotel & Resorts
+# Harsha Hotel & Resorts
 
-#introduction
+# Introduction
